@@ -1,0 +1,6 @@
+{
+  "name": "Niwsha Nails | سالن زیبایی ناخن نیوشا",
+  "description": "وب‌سایت رسمی خدمات تخصصی ناخن نیوشا (Niwsha) - کاشت، ژل، لمینت، مانیکور و طراحی حرفه‌ای ناخن با بالاترین استانداردهای بهداشتی و زیبایی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
