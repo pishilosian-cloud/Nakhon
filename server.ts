@@ -21,6 +21,11 @@ async function startServer() {
     res.json({ status: 'ok', time: new Date().toISOString() });
   });
 
+  // Mount static asset directories
+  app.use('/images', express.static(path.resolve(__dirname, 'public/images')));
+  app.use('/public', express.static(path.resolve(__dirname, 'public')));
+  app.use('/src/assets/images', express.static(path.resolve(__dirname, 'src/assets/images')));
+
   const isProduction = process.env.NODE_ENV === 'production';
 
   if (!isProduction) {

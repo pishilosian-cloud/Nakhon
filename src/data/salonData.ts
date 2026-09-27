@@ -8,8 +8,8 @@ export const salonData: SalonConfig = {
     subTagline: 'خدمات تخصصی کاشت، ژلیش، لمینت و طراحی ناخن در فضایی آرامش‌بخش و کاملاً بهداشتی',
     experienceYears: '+۵ سال تجربه',
     clientsCount: '+۱,۲۰۰ مشتری راضی',
-    heroImage: '/src/assets/images/niwsha_hero_nails_1790499890190.jpg',
-    artistImage: '/src/assets/images/niwsha_artist_portrait_1790499902980.jpg',
+    heroImage: '/images/niwsha_hero_nails_1790499890190.jpg',
+    artistImage: '/images/niwsha_artist_portrait_1790499902980.jpg',
   },
 
   about: {
@@ -134,7 +134,7 @@ export const salonData: SalonConfig = {
       title: 'کاشت بادامی با ژل نود و لاین طلایی مینیمال',
       category: 'kasht',
       categoryLabel: 'کاشت',
-      imageUrl: '/src/assets/images/portfolio_nude_almond_1790499913354.jpg',
+      imageUrl: '/images/portfolio_nude_almond_1790499913354.jpg',
       technique: 'کاشت ژل با فرم بادامی و خطوط مینیاتوری ورق طلا',
       shape: 'بادامی کوتاه'
     },
@@ -143,7 +143,7 @@ export const salonData: SalonConfig = {
       title: 'فرنچ مدرن میکرو با فینیش کروم گلیزرد',
       category: 'tarahi',
       categoryLabel: 'طراحی',
-      imageUrl: '/src/assets/images/portfolio_french_modern_1790499923138.jpg',
+      imageUrl: '/images/portfolio_french_modern_1790499923138.jpg',
       technique: 'میکرو فرنچ سفید شیری با کروم شاین طبیعی',
       shape: 'مربعی ظریف'
     },
@@ -152,7 +152,7 @@ export const salonData: SalonConfig = {
       title: 'آمبره بیبی‌بومر رزگلد با شیب ملایم',
       category: 'gel',
       categoryLabel: 'ژل',
-      imageUrl: '/src/assets/images/portfolio_ombre_blush_1790499934199.jpg',
+      imageUrl: '/images/portfolio_ombre_blush_1790499934199.jpg',
       technique: 'لمینت استحکام‌بخش با گرادیان هلویی شیری',
       shape: 'بادامی کلاسیک'
     },
@@ -161,7 +161,7 @@ export const salonData: SalonConfig = {
       title: 'استحکام‌سازی صدف طبیعی ناخن با ژل شیری ملایم',
       category: 'gel',
       categoryLabel: 'ژل',
-      imageUrl: '/src/assets/images/niwsha_hero_nails_1790499890190.jpg',
+      imageUrl: '/images/niwsha_hero_nails_1790499890190.jpg',
       technique: 'Overlay با رابر ژل هلندی و براق‌کننده شیشه‌ای',
       shape: 'طبیعی گرد'
     },
@@ -170,7 +170,7 @@ export const salonData: SalonConfig = {
       title: 'ترمیم ۳۰ روزه کاشت ژل به همراه تغییر رنگ ترند',
       category: 'tarmim',
       categoryLabel: 'ترمیم',
-      imageUrl: '/src/assets/images/portfolio_nude_almond_1790499913354.jpg',
+      imageUrl: '/images/portfolio_nude_almond_1790499913354.jpg',
       technique: 'ترمیم بدون ایجاد پله و مانیکور دقیق کوتیکول',
       shape: 'بادامی کشیده'
     },
@@ -179,7 +179,7 @@ export const salonData: SalonConfig = {
       title: 'دیزاین کلین‌استایل با مینی فرنچ و رینگ مرواریدی',
       category: 'tarahi',
       categoryLabel: 'طراحی',
-      imageUrl: '/src/assets/images/portfolio_french_modern_1790499923138.jpg',
+      imageUrl: '/images/portfolio_french_modern_1790499923138.jpg',
       technique: 'طراحی خطی ظریف با لاک‌ژل سوپر پیگمنت',
       shape: 'مربعی نرم'
     },
@@ -188,7 +188,7 @@ export const salonData: SalonConfig = {
       title: 'کاشت سالنی پودر و ژل با تم کرم کاراملی نود',
       category: 'kasht',
       categoryLabel: 'کاشت',
-      imageUrl: '/src/assets/images/portfolio_ombre_blush_1790499934199.jpg',
+      imageUrl: '/images/portfolio_ombre_blush_1790499934199.jpg',
       technique: 'کاشت روسی با ژل فایبرگلاس و قوس طبیعی',
       shape: 'بادامی مدرن'
     },
@@ -197,7 +197,7 @@ export const salonData: SalonConfig = {
       title: 'ترمیم لمینت ناخن طبیعی همراه با روغن‌تراپی عمیق',
       category: 'tarmim',
       categoryLabel: 'ترمیم',
-      imageUrl: '/src/assets/images/niwsha_hero_nails_1790499890190.jpg',
+      imageUrl: '/images/niwsha_hero_nails_1790499890190.jpg',
       technique: 'احیا و ریموو لایه اضافه بدون نازک شدن بستر',
       shape: 'کوتاه نچرال'
     }
